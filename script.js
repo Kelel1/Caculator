@@ -1,7 +1,11 @@
 const keypad = document.querySelector("#digits");
+<<<<<<< HEAD
 let a;
 let b;
 // var sev = document.getElementById("seven");
+=======
+var sev = document.getElementById("seven");
+>>>>>>> 5de4dcf4375884fc7d2e94e1eff3e8e288b727ec
 
 // sev.addEventListener("click", displayValue);
 
@@ -117,4 +121,7 @@ function divide(a,b) {
 // }
 displayKeys();
 
+<<<<<<< HEAD
 console.log(divide(8,2.789));
+=======
+>>>>>>> 5de4dcf4375884fc7d2e94e1eff3e8e288b727ec
